@@ -11,6 +11,6 @@ import io.cucumber.junit.CucumberOptions;
         dryRun = false,
         tags = "@wip"
 )
-public class Cukesrunner {
+public class CukesRunner {
 
 }
